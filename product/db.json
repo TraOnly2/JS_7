@@ -1,0 +1,33 @@
+{
+  "popularcategories": [
+    {
+      "id": "1",
+      "image":"/pic/1.png",
+      "title": "Sarasoft AG",
+      "price": 14.99,
+      "discount": 7.5
+    },
+    {
+      "id": "2",
+      "image":"/pic/back.jpg",
+      "title": "UGC",
+      "price": 14.99,
+      "discount": 7.5
+    },
+    {
+      "id": "3",
+      "image":"/pic/cate.jpg",
+      "title": "UGC",
+      "price": 14.99,
+      "discount": 7.5
+    },
+    {
+      "id": "4",
+      "image":"/pic/virus.jpg",
+      "title": "UGC",
+      "price": 500000,
+      "discount": 7.5
+    }
+
+  ]
+}

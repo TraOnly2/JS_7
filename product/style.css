@@ -1,0 +1,251 @@
+body{
+background-color: #EAEAEA;
+margin-top: 5px;
+}
+/*Header*/
+.sign-in{
+    display: flex;
+    justify-content: end;
+}
+.logo{
+    width: 60px;
+    height: 50px;
+}
+.shop-cart{
+    display: flex;
+    justify-content: end;
+    font-size: 16px;
+}
+.search input{
+    height: 0.9cm;
+}
+.search button{
+    height: 0.9cm;
+}
+.phone-num{
+    color: black;
+    text-decoration: none;
+}
+
+.img-slide{
+position: absolute;
+margin-left: 1cm;
+}
+.letter-slide{
+    
+    position: relative;
+    margin-left: 18cm;
+    margin-top: 1cm;
+
+}
+.letter-slide b{
+    color: rgb(197, 189, 34);
+}
+.letter-slide h3{
+    font-size: 40px;
+    font-weight:bold;
+}
+.p1{
+    color: rgb(49, 180, 49);
+}
+.p2{
+    font-size: 13px;
+    font-weight: 300;
+}
+.carousel-silde{
+    height: 14cm;
+}
+.carousel-silde img{
+    height: 100%;
+}
+
+/* services*/
+.icon-shipping a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-shipping h5{
+    font-weight: bold;
+    font-size: 17px;
+}
+.icon-shipping h4{
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.icon-service{
+    background-color: rgb(41, 165, 165);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    height: 75px;
+    width: 75px;
+    color: rgb(242, 242, 242);
+    font-size: 25px;
+}
+.circle{
+    text-decoration: none;
+}
+
+.category-1 img{
+    height: 200px;
+}
+.card-text{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.img-card{
+    position: relative;
+}
+.discount-text{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 15px;
+    border:1px solid rgb(222, 18, 55);
+    background-color: rgb(222, 18, 55);
+    border-radius: 3px;
+    width: 90px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.add_card{
+    background-color: rgb(31, 139, 211);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    height: 50px;
+    width: 50px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: 80px;
+    border: 0px;
+    transition: 0.5s;
+}
+.add_card:hover{
+background-color: rgb(86, 123, 123);
+
+}
+.fa-star{
+    color: gold;
+}
+.star-hide{
+    color: rgb(153, 154, 155);
+}
+.card-text1{
+    position: relative;
+    text-align: center;
+    margin-top: 20px;
+}
+.hours{
+    font-size: 40px;
+}
+.days{
+
+    font-size: 20px;
+
+}
+.card-image{
+position: absolute;
+}
+.btn-shop1{
+    border: 3px solid;
+    background-color: white
+}
+.btn-shop2{
+    border: 3px solid;
+    background-color: white
+}
+.img-dialog{
+position: relative;
+}
+.date-card{
+position: absolute;
+color: rgb(59, 51, 51);
+margin-left: 20px;
+margin-top: 50%;
+font-size: 20px;
+background-color: rgb(185, 185, 185);
+border-radius: 3px;
+width: 80px;
+height: 80px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.feedback a{
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(53, 53, 53);
+}
+.h3-1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.h3-2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h3-3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h3-4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.h3-5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h3-6{
+    font-family: 'Times New Roman', Times, serif;
+}
+.sponser{
+    background-color: aliceblue;
+    height: 3cm;
+}
+.contact a{
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+
+}
+.contact-icon button{
+    width: 38px;
+}
+.about{
+    padding-top: 50px;
+}
+.about a{
+    text-decoration: none;
+}
+.my-acc p{
+    color: white;
+    font-weight: 100;
+}
+.help p{
+    color: white;
+    font-weight: 100;
+
+}
+.proxy p{
+    color: white;
+    font-weight: 100;
+
+}
+.Categories-1{
+    color: white;
+    font-weight: 100;
+}
+.view-all a{
+    text-decoration: none;
+    color: black;
+}
